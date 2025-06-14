@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities{
+    .active{
+        @apply text-center bg-black text-white rounded-lg
+    }
+}

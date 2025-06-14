@@ -1,0 +1,88 @@
+{
+"jobs":[
+  {
+    "id": "1",
+    "title": "Front-End Web Developer",
+    "type": "Full-Time",
+    "description": "We are seeking a skilled Front-End Web Developer to join our tech team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern frameworks like React or Vue.js. You will work closely with designers and backend developers to deliver exceptional web applications. Creativity, attention to detail, and a passion for user experience are essential.",
+    "location": "San Francisco, CA",
+    "salary": "$65,000 - $80,000",
+    "company": {
+      "name": "Innovatek Solutions",
+      "description": "Innovatek is a cutting-edge software company focused on delivering scalable digital solutions for startups and enterprises.",
+      "contactEmail": "hr@innovatek.com",
+      "contactNumber": "+1-415-123-4567"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Customer Support Specialist",
+    "type": "Part-Time",
+    "description": "Join our friendly customer support team to assist clients via phone, chat, and email. You’ll help resolve issues, provide product information, and ensure customer satisfaction. Ideal for those with strong communication skills and a passion for helping others. Prior experience in a support role is a plus but not required.",
+    "location": "Remote",
+    "salary": "$42,000 - $50,000",
+    "company": {
+      "name": "HelpHub Inc.",
+      "description": "HelpHub Inc. provides outsourced customer support for a wide range of businesses, specializing in tech and e-commerce sectors.",
+      "contactEmail": "supportcareers@helphub.com",
+      "contactNumber": "+1-888-555-9090"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Digital Marketing Analyst",
+    "type": "Full-Time",
+    "description": "We are looking for a Digital Marketing Analyst to interpret data, analyze campaign performance, and optimize digital marketing strategies. You’ll work with SEO, SEM, and analytics tools to generate insights that drive business growth. Strong analytical skills and experience with platforms like Google Analytics are essential.",
+    "location": "New York, NY",
+    "salary": "$58,000 - $78,000",
+    "company": {
+      "name": "BrightVision Media",
+      "description": "BrightVision Media is a results-driven marketing agency that helps brands build their digital presence through smart strategies and creative storytelling.",
+      "contactEmail": "careers@brightvisionmedia.com",
+      "contactNumber": "+1-212-555-3021"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Junior Software Engineer",
+    "type": "Full-Time",
+    "description": "As a Junior Software Engineer, you will support the development and maintenance of scalable web applications. You’ll work with senior developers and gain exposure to a variety of projects and technologies. This is a fantastic opportunity for recent graduates or developers early in their careers to grow their skills in a supportive environment.",
+    "location": "Austin, TX",
+    "salary": "$55,000 - $70,000",
+    "company": {
+      "name": "CodeFlow Labs",
+      "description": "CodeFlow Labs is a dynamic software development company building tools and platforms for clients across multiple industries.",
+      "contactEmail": "jobs@codeflowlabs.com",
+      "contactNumber": "+1-737-555-8844"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Content Writer",
+    "type": "Part-Time",
+    "description": "We are hiring a creative Content Writer to produce high-quality articles, blogs, and social media content. The role requires strong writing skills, SEO knowledge, and the ability to meet deadlines. You’ll collaborate with marketing and design teams to create engaging content that aligns with our brand voice.",
+    "location": "Chicago, IL",
+    "salary": "$45,000 - $60,000",
+    "company": {
+      "name": "WordSpark Creatives",
+      "description": "WordSpark Creatives is a boutique content marketing agency specializing in storytelling, branding, and digital engagement.",
+      "contactEmail": "writers@wordspark.co",
+      "contactNumber": "+1-312-555-7622"
+    }
+  },
+  {
+  "id": "6",
+  "title": "IT Support Technician",
+  "type": "Full-Time",
+  "description": "We are looking for an experienced IT Support Technician to provide technical assistance and support to end-users and maintain our internal systems. Responsibilities include troubleshooting hardware and software issues, installing updates, and ensuring network security. Ideal candidates are problem-solvers with strong communication skills and a passion for technology.",
+  "location": "Seattle, WA",
+  "salary": "$52,000 - $68,000",
+  "company": {
+    "name": "TechNova Systems",
+    "description": "TechNova Systems offers managed IT services, cloud solutions, and infrastructure support to businesses of all sizes across North America.",
+    "contactEmail": "itjobs@technova.com",
+    "contactNumber": "+1-206-555-7711"
+  }
+}
+]
+}
