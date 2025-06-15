@@ -24,14 +24,13 @@
         "name": "HelpHub Inc.",
         "description": "HelpHub Inc. provides outsourced customer support for a wide range of businesses, specializing in tech and e-commerce sectors.",
         "contactEmail": "supportcareers@helphub.com",
-        "contactNumber": "064-039-0409"
+        "contactNumber": "(+27) 064-039-0409"
       },
       "id": "2"
     },
     {
-      "id": "3",
       "title": "Digital Marketing Analyst",
-      "type": "Full-Time",
+      "type": "Full-time",
       "description": "We are looking for a Digital Marketing Analyst to interpret data, analyze campaign performance, and optimize digital marketing strategies. You’ll work with SEO, SEM, and analytics tools to generate insights that drive business growth. Strong analytical skills and experience with platforms like Google Analytics are essential.",
       "location": "New York, NY",
       "salary": "$58,000 - $78,000",
@@ -40,7 +39,8 @@
         "description": "BrightVision Media is a results-driven marketing agency that helps brands build their digital presence through smart strategies and creative storytelling.",
         "contactEmail": "careers@brightvisionmedia.com",
         "contactNumber": "+1-212-555-3021"
-      }
+      },
+      "id": "3"
     },
     {
       "id": "4",
@@ -57,9 +57,8 @@
       }
     },
     {
-      "id": "5",
       "title": "Content Writer",
-      "type": "Part-Time",
+      "type": "Full-time",
       "description": "We are hiring a creative Content Writer to produce high-quality articles, blogs, and social media content. The role requires strong writing skills, SEO knowledge, and the ability to meet deadlines. You’ll collaborate with marketing and design teams to create engaging content that aligns with our brand voice.",
       "location": "Chicago, IL",
       "salary": "$45,000 - $60,000",
@@ -68,49 +67,36 @@
         "description": "WordSpark Creatives is a boutique content marketing agency specializing in storytelling, branding, and digital engagement.",
         "contactEmail": "writers@wordspark.co",
         "contactNumber": "+1-312-555-7622"
-      }
+      },
+      "id": "5"
     },
     {
-      "id": "6",
       "title": "IT Support Technician",
-      "type": "Full-Time",
+      "type": "Full-time",
       "description": "We are looking for an experienced IT Support Technician to provide technical assistance and support to end-users and maintain our internal systems. Responsibilities include troubleshooting hardware and software issues, installing updates, and ensuring network security. Ideal candidates are problem-solvers with strong communication skills and a passion for technology.",
       "location": "Seattle, WA",
-      "salary": "$52,000 - $68,000",
+      "salary": "$38,000 - $55,000",
       "company": {
         "name": "TechNova Systems",
         "description": "TechNova Systems offers managed IT services, cloud solutions, and infrastructure support to businesses of all sizes across North America.",
         "contactEmail": "itjobs@technova.com",
         "contactNumber": "+1-206-555-7711"
+      },
+      "id": "6"
+    },
+    {
+      "id": "bd09",
+      "title": "Data Scientist",
+      "type": "Full-time",
+      "description": "Our data science team is expanding, and we need a skilled Data Scientist to analyze complex datasets, build predictive models, and provide actionable insights. Strong background in statistics, machine learning, and programming languages like Python or R is essential. Experience with big data technologies is a plus.",
+      "location": "Boston, MA",
+      "salary": "$100,000+",
+      "company": {
+        "name": "Quantify Analytics",
+        "description": "Quantify Analytics is a leading firm in data-driven insights and AI solutions for various industries.",
+        "contactEmail": "data.careers@quantify.ai",
+        "contactNumber": "+1-617-876-5432"
       }
-    },
-    {
-      "title": "Digital Marketing Specialist",
-      "type": "Full-time",
-      "description": "Join our marketing team as a Digital Marketing Specialist. You will be responsible for developing, implementing, and managing marketing campaigns that promote our company and its products/services. A strong understanding of SEO, SEM, social media marketing, email marketing, and content creation is essential.",
-      "location": "Remote",
-      "salary": "$22,000 - $37,000",
-      "company": {
-        "name": "Growth Hype Agency",
-        "description": "Growth Hype Agency is a dynamic marketing firm dedicated to helping businesses achieve their online growth objectives.",
-        "contactEmail": "jobs@growthhype.net",
-        "contactNumber": "+1-213-555-0101"
-      },
-      "id": "5abd"
-    },
-    {
-      "title": "UX/UI Designer",
-      "type": "Full-time",
-      "description": "We are seeking a talented UX/UI Designer to create intuitive and engaging user experiences for our web and mobile applications. You will conduct user research, create wireframes, prototypes, and high-fidelity designs. A portfolio demonstrating your design process and strong visual design skills is required.",
-      "location": "Seattle, WA",
-      "salary": "$76,000 - $100,000",
-      "company": {
-        "name": "Pixel Perfect Studios",
-        "description": "Pixel Perfect Studios is a design-focused agency building beautiful and user-centric digital products.",
-        "contactEmail": "design@pixelperfect.com",
-        "contactNumber": "+1-206-789-1234"
-      },
-      "id": "4eef"
     }
   ]
 }

@@ -8,7 +8,8 @@ const JobPage = () => {
   const {id} = useParams()
   const job = useLoaderData()
 
-  const handleDelete = async () =>{
+  const handleDelete = async (e) =>{
+    e.preventDefault()
     const res = await fetch(`http://localhost:3000/jobs/${job.id}`, {
       method: "DELETE"
     });
@@ -69,7 +70,7 @@ const JobPage = () => {
             <button className="bg-blue-600 text-white w-full py-2 rounded-md mb-2 hover:bg-blue-700">
              <Link  to={`/job/edit/${job.id}`}>Edit Job</Link>
             </button>
-            <button onClick={handleDelete}  className="bg-red-600 text-white w-full py-2 rounded-md hover:bg-red-700">
+            <button type='button' onClick={e=>handleDelete(e)}  className="bg-red-600 text-white w-full py-2 rounded-md hover:bg-red-700">
               Delete Job
             </button>
           </div>

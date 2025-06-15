@@ -117,7 +117,7 @@ const EditJob = () => {
                             className="block w-full px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-base transition duration-150 ease-in-out bg-gray-50 text-gray-900">
                             <option value="">Select Job Type</option>
                             <option value="Full-time">Full-time</option>
-                            <option value="Fart-time">Part-time</option>
+                            <option value="Part-time">Part-time</option>
                         </select>
                     </div>
                 </div>
@@ -201,7 +201,7 @@ const EditJob = () => {
             </div>
 
             <div className="flex justify-end pt-6">
-                <button type="submit"
+                <button 
                     className="inline-flex justify-center py-3 px-8 border border-transparent shadow-sm text-base font-medium rounded-lg text-white bg-orange-600 hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition duration-150 ease-in-out transform hover:scale-105">
                     Update Job
                 </button>
